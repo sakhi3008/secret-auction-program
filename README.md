@@ -13,11 +13,11 @@ This is a Python-based console application for managing a bidding process. Multi
 
 - The program takes input from the users (name and bid amount).
 - After each bid, it asks if there are more bidders.
-  - If "yes," the screen is cleared, and the next bidder can input their details.
-  - If "no," the program declares the highest bidder.
+  - If "__yes__," the screen is cleared, and the next bidder can input their details.
+  - If "__no__," the program declares the highest bidder.
 - The clear function works both on Windows and macOS/Linux platforms, ensuring a smooth user experience.
 
 ## How to Run
-__View Code -- [secret_auction_program.py](secret_auction_program.py)
+__View Code__ -- [secret_auction_program.py](secret_auction_program.py)
 
 
